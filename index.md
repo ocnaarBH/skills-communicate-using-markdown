@@ -14,4 +14,7 @@ var myVar = "Hello, world!";
 print("Hello World!")
 ```
 ##### Header 5
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 ###### Header 6
